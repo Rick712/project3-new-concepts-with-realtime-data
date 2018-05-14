@@ -1,0 +1,52 @@
+<% include ../header %>
+
+    <main class="tank">
+        <img src="../images/fish.png">
+        <img src="../images/fish.png">
+        <img src="../images/fish.png">
+        <img src="../images/fish.png">
+        <img src="../images/fish.png">
+
+        <div class="info">
+            <h1>Vissen</h1>
+            <p>Zoals eerder al beschreven mag de concentratie ammonia niet te hoog zijn voor de vissen. Ook moeten de vissen voldoende eten krijgen om gezond te blijven.</p>
+            <h3>Concentratie ammonia</h3>
+            <div class="change amm">
+                <a class="ammUp">+</a>
+                <p></p>
+                <a class="ammDown">-</a>
+            </div>
+
+            <h3>Hoeveelheid eten</h3>
+            <div class="change food">
+                <a class="foodUp">+</a>
+                <p></p>
+                <a class="foodDown">-</a>
+            </div>
+            <a href="#tank2">Volgende</a>
+        </div>
+    </main>
+
+    <div id="tank2">
+        <div class="info">
+            <h2>Ammonia</h2>
+            <div class="fish_healthy">
+                <p>De vissen zijn gezond, dus de ammonia die ze uitscheiden wordt goed gefilterd. Het water, samen met de ammonia stroomt naar de planten.</p>
+            </div>
+            <div class="fish_unhealthy noDisplay">
+                <p>De vissen zijn ongezond, en scheiden minder ammonia uit. De ammonia die ze wel uitscheiden wordt gefilterd, en stroomt naar de planten.</p>
+            </div>
+            <div class="fish_almost_dead noDisplay">
+                <p>De vissen zijn bijna dood. De vissen scheiden bijna geen ammonia meer uit.</p>
+            </div>
+            <div class="fish_dead noDisplay">
+                <p>De vissen zijn dood. Alleen water stroomt naar de planten.</p>
+            </div>
+            <a href="#">Terug naar vissen</a>
+            <a href="plant">Naar planten</a>
+        </div>
+    </div>
+
+    <script src="../script/tank.js"></script>
+
+    <% include ../footer %>
