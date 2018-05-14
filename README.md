@@ -45,7 +45,6 @@ To install the web app, run `npm init`. Then, to start the server, run `node app
 - EJS
 - Express
 - Socket.io
-- 
 
 ## Wishlist
 
