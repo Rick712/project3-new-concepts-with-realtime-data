@@ -4,9 +4,8 @@ Repo of project 3
 - **[About this project](#about-this-project)**
 - **[My concept](#my-concept)**
 - **[Getting started](#getting-started)**
-- **[Technology used](#technology-used)**
+- **[Technologies used](#technologies-used)**
 - **[Wishlist](#wishlist)**
-- **[Technology used](#technology-used)**
 
 ## About this project
 
