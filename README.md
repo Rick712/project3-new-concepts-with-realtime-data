@@ -2,7 +2,9 @@
 Repo of project 3
 
 - **[About this project](#about-this-project)**
+- **[User scenario](#user-scenario)**
 - **[My concept](#my-concept)**
+- **[Used data](#used-data)**
 - **[Getting started](#getting-started)**
 - **[Technology used](#technology-used)**
 - **[Wishlist](#wishlist)**
@@ -16,9 +18,18 @@ De Ceuvel has a new project: Aquapolics. They created a closed system consisting
 
 This is just a prototype of something that could be a large web app. There are a lot of functionalities that I would want to implement (see the wishlist).
 
+## User scenario
+
+Through the year, De Ceuvel gives tours and show their project to other people. Their main goal is to inspire other people and to teach them about a 'greener' world.
+
+My user scenario is:
+A user wants to learn about De Ceuvel and how the aquapolics system works. There is a lot of data, but no easy and entertaining way to display the data. The user wants to be entertained while learning about the system.
+
 ## My concept
 
 To me, the system of the Aquapolics is very interesting. I love biology, but there wasn't any data yet, since the system was relatively new, and not yet fully operational.
+
+There is a lot of data about the system, but no easy way to show the users the data and the connection between the values.
 
 ![First screen](https://i.imgur.com/P1jLyVT.png)
 
