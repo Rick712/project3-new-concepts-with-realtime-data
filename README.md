@@ -44,6 +44,22 @@ What I think is really interesting, is that there are a lot of things that could
 
 ![All the fish are dead :(](https://i.imgur.com/NmnwzeL.png)
 
+## Used data
+
+The used data comes directly from De Ceuvel. This is the data I use:
+
+- Fish food in gram
+- Fish perceived happiness
+- Fish total weight
+- Concentration ammonia in fish tank
+- Concentration ammonia in other tank
+- Number of crops
+- Kind of grops
+- Crop grow rate in % per day
+- Crop expected harvest time
+- Total number of water + ammonia going to the plants in Liter per day
+- Total number of water going back to the fish in Liter per day
+
 ## Getting started
 
 To install the web app, run `npm init`. Then, to start the server, run `node app.js`.
