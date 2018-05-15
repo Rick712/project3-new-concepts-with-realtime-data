@@ -6,9 +6,8 @@ Repo of project 3
 - **[My concept](#my-concept)**
 - **[Used data](#used-data)**
 - **[Getting started](#getting-started)**
-- **[Technology used](#technology-used)**
+- **[Technologies used](#technologies-used)**
 - **[Wishlist](#wishlist)**
-- **[Technology used](#technology-used)**
 
 ## About this project
 
@@ -56,7 +55,6 @@ To install the web app, run `npm init`. Then, to start the server, run `node app
 - EJS
 - Express
 - Socket.io
-- 
 
 ## Wishlist
 
